@@ -1,0 +1,16 @@
+C:\C# lesson and practice\bai 18\bienToanCuc_bienCucBo\bienToanCuc_bienCucBo\bienToanCuc_bienCucBo\bin\Debug\bienToanCuc_bienCucBo.exe.config
+C:\C# lesson and practice\bai 18\bienToanCuc_bienCucBo\bienToanCuc_bienCucBo\bienToanCuc_bienCucBo\bin\Debug\bienToanCuc_bienCucBo.exe
+C:\C# lesson and practice\bai 18\bienToanCuc_bienCucBo\bienToanCuc_bienCucBo\bienToanCuc_bienCucBo\bin\Debug\bienToanCuc_bienCucBo.pdb
+C:\C# lesson and practice\bai 18\bienToanCuc_bienCucBo\bienToanCuc_bienCucBo\bienToanCuc_bienCucBo\obj\Debug\bienToanCuc_bienCucBo.csproj.AssemblyReference.cache
+C:\C# lesson and practice\bai 18\bienToanCuc_bienCucBo\bienToanCuc_bienCucBo\bienToanCuc_bienCucBo\obj\Debug\bienToanCuc_bienCucBo.csproj.SuggestedBindingRedirects.cache
+C:\C# lesson and practice\bai 18\bienToanCuc_bienCucBo\bienToanCuc_bienCucBo\bienToanCuc_bienCucBo\obj\Debug\bienToanCuc_bienCucBo.csproj.CoreCompileInputs.cache
+C:\C# lesson and practice\bai 18\bienToanCuc_bienCucBo\bienToanCuc_bienCucBo\bienToanCuc_bienCucBo\obj\Debug\bienToanCuc_bienCucBo.exe
+C:\C# lesson and practice\bai 18\bienToanCuc_bienCucBo\bienToanCuc_bienCucBo\bienToanCuc_bienCucBo\obj\Debug\bienToanCuc_bienCucBo.pdb
+D:\C#\bai 18\bienToanCuc_bienCucBo\bienToanCuc_bienCucBo\bienToanCuc_bienCucBo\obj\Debug\bienToanCuc_bienCucBo.csproj.AssemblyReference.cache
+D:\C#\bai 18\bienToanCuc_bienCucBo\bienToanCuc_bienCucBo\bienToanCuc_bienCucBo\obj\Debug\bienToanCuc_bienCucBo.csproj.SuggestedBindingRedirects.cache
+D:\C#\bai 18\bienToanCuc_bienCucBo\bienToanCuc_bienCucBo\bienToanCuc_bienCucBo\obj\Debug\bienToanCuc_bienCucBo.csproj.CoreCompileInputs.cache
+D:\C#\bai 18\bienToanCuc_bienCucBo\bienToanCuc_bienCucBo\bienToanCuc_bienCucBo\obj\Debug\bienToanCuc_bienCucBo.exe
+D:\C#\bai 18\bienToanCuc_bienCucBo\bienToanCuc_bienCucBo\bienToanCuc_bienCucBo\obj\Debug\bienToanCuc_bienCucBo.pdb
+D:\C#\bai 18\bienToanCuc_bienCucBo\bienToanCuc_bienCucBo\bienToanCuc_bienCucBo\bin\Debug\bienToanCuc_bienCucBo.exe.config
+D:\C#\bai 18\bienToanCuc_bienCucBo\bienToanCuc_bienCucBo\bienToanCuc_bienCucBo\bin\Debug\bienToanCuc_bienCucBo.exe
+D:\C#\bai 18\bienToanCuc_bienCucBo\bienToanCuc_bienCucBo\bienToanCuc_bienCucBo\bin\Debug\bienToanCuc_bienCucBo.pdb
